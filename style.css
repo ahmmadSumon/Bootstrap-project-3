@@ -786,7 +786,10 @@ cursor: pointer;
   align-items: last baseline;
   padding-bottom: 20px;
 }
-
+p {
+  margin-top: 0;
+  margin-bottom: 0rem;
+}
 .footer-row3-in {
   width: 34px;
   height: 34px;
@@ -1233,6 +1236,7 @@ cursor: pointer;
 .video-list-in {
   display: flex;
   gap: 3px;
+  align-items: center;
 
 }
 
